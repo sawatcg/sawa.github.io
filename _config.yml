@@ -1,0 +1,14 @@
+title: "Sawa Blog"
+description: "A blog about TCG and related topics"
+url: "https://<ton-username>.github.io"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-remote-theme
+
+markdown: kramdown
+minimal_mistakes_skin: default
+
+author:
+  name: "Sawa"
+  bio: "A blog about TCG and related topics"
