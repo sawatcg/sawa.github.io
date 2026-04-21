@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: " FanMade Sets (Altered)"
+    url: /fanmade-sets/
