@@ -1,5 +1,5 @@
-title: "Sawa Blog"
-description: "A blog about TCG and related topics"
+title: "Sawa"
+description: "A blog about Card Games and related Topics"
 url: "https://<ton-username>.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
@@ -11,4 +11,16 @@ minimal_mistakes_skin: default
 
 author:
   name: "Sawa"
-  bio: "A blog about TCG and related topics"
+  bio: " Player "
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
