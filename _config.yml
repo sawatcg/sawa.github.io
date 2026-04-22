@@ -2,6 +2,7 @@ title: "Sawa"
 description: "A blog about Card Games and Related Topics"
 url: "https://sawa.github.io"
 remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
@@ -24,8 +25,3 @@ defaults:
       type: "posts"
     values:
       layout: single
-      
-collections:
-  pages:
-    output: true
-    permalink: /:path/
