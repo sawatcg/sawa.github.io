@@ -1,7 +1,7 @@
 ---
 title: "*Smiles After Weeping* Teaser"
 excerpt: "An Altered Fanmade set"
-permalink: /first-set-teaser/
+permalink: /saw-set-teaser/
 layout: single
 classes: wide
 ---
