@@ -1,4 +1,5 @@
 
+---
 title: "*Smiles After Weeping* Teaser"
 excerpt: "Your subtitle here"
 permalink: /first-set-teaser/
@@ -50,8 +51,6 @@ galleryYzmir1:
   - image_path: /assets/images/first-set-teaser/Zujo_R.png
 galleryYzmir2:
   - image_path: /assets/images/first-set-teaser/FoodForThought.png
----
-
 ---
 
 Hello there! For my first post on this blog, I wanted to share my fan-made Altered set, *Smiles After Weeping*. If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered’s success, and is now entering a new phase driven by the community and you can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
