@@ -15,3 +15,21 @@ body {
   font-size: 1.1em;
   line-height: 1.8;
 }
+
+
+.gallery__wrapper {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 10px;
+}
+
+.gallery__wrapper figure {
+  width: 100% !important;
+  margin: 0 !important;
+}
+
+.gallery__wrapper figure img {
+  width: 100% !important;
+  height: 300px !important;
+  object-fit: contain !important;
+}
