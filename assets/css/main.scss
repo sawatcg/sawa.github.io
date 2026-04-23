@@ -21,9 +21,9 @@ body {
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
   margin: 20px auto;
-  max-width: 600px;
-  justify-items: center;
+  max-width: 900px;
 }
+
 .card-gallery img {
   width: 100% !important;
   height: 400px !important;
