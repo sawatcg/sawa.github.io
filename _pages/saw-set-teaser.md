@@ -1,7 +1,7 @@
 ---
 title: "*Smiles After Weeping* Teaser"
 excerpt: "An Altered Fanmade set"
-permalink: /first-set-teaser/
+permalink: /saw-set-teaser/
 layout: single
 classes: wide
 ---
@@ -13,6 +13,9 @@ I started designing Altered fan-made cards after Worlds, before the reveal of *R
 These illustrations would not have been possible without the amazing work of *PolluxTroy* on [altered-db](https://altered-db.com/). Huge thanks again to him, and do not hesitate to give it a try if you ever feel like creating custom cards of your own!
 
 > **Disclaimer:** *As you'll notice, these designs are generally on the simpler side, and I would not be surprised if Equinox has already explored some of these ideas internally. This is very much an early draft. I still intend to test and rebalance all of the cards, and some of them will likely be revised quite a bit.*
+
+> <span style="color: #e8a020;"> The card illustrations were generated using the automated CSV-to-Card tool from [altered-db](https://altered-db.com/). As this feature is still a work in progress, some elements (text color, text size...) are not display correctly. Improvements are on the way. </span>
+
 
 ## Set Mechanics
 
@@ -29,15 +32,15 @@ Exhausting Landmark Permanents and Heroes has existed since the core set. A few 
 
 This kind of mechanic has already been explored in other TCGs, though I'll remain *silent* on the most obvious comparison, but Altered offers a particularly natural way to make it its own. While the core idea is quite simple, some edge cases may still need clarification; a full blog post would be the right place to discuss the mechanic in detail, but for now I will stick to the following two essential points:
 
-> A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
+- A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
 
-> On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
+- On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
 
 Later, in the dedicated section, you will find how each faction makes use of this mechanic in its own distinct way.
 
 ### Tokens in Reserve
 
-One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve. This set aims to address that gap.
+One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve, making it, to my knowledge, the first physical TCG to handle tokens outside the board in a truly elegant way.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/ManaFly.png" alt="Mana Fly">
@@ -71,12 +74,14 @@ In *Smiles After Weeping*, Axiom gives the exhaust mechanic a distinctly faction
   <img src="/assets/images/first-set-teaser/008_CUSTOM_008.png" alt="Hotaru-Gari">
 </div>
 
+*The Watchpost* is Axiom's new fortress. Its Rare version will have higher costs than the Common revealed version.  Can you guess its text?
+
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/010_CUSTOM_010.png" alt="Yuri Locomotive Engineer">
   <img src="/assets/images/first-set-teaser/009_CUSTOM_009.png" alt="The Watchpost">
 </div>
 
-*The Watchpost* is Axiom's new fortress. Its Rare version (not yet revealed) will have higher costs than the Common Revealed Version.  Can you guess its text?
+
 
 ### Bravos
 
@@ -87,6 +92,8 @@ Bravos, on its side, uses the exhaust mechanic to let its strong characters ente
   <img src="/assets/images/first-set-teaser/012_CUSTOM_012.png" alt="Null Mantle">
   <img src="/assets/images/first-set-teaser/013_CUSTOM_013.png" alt="Bravos Outland Trooper">
 </div>
+
+Just like the *Minikhlut* below, look out for cubs, siblings, and variants of iconic Bravos characters making a surprise appearance in this set ! 
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/014_CUSTOM_014.png" alt="Minikhlut">
@@ -129,13 +136,15 @@ On top of that, Muna will willingly trade some of its own advantages in order to
 
 ### Ordis
 
-As they push further into the unknown, Ordis uncovers the Cloning Vat, a mysterious artifact whose power allows the faction to replicate objects and life. In this set, Ordis' identity revolves around cloning and the highly synergistic possibilities it unlocks.
+As they push further into the unknown, Ordis uncovers *the Cloning Vat*, a mysterious artifact whose power allows the faction to replicate objects and life. In this set, Ordis' identity revolves around cloning and the highly synergistic possibilities it unlocks.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/026_CUSTOM_026.png" alt="The Counterfeiter">
     <img src="/assets/images/first-set-teaser/028_CUSTOM_028.png" alt="Crowded Out">
   <img src="/assets/images/first-set-teaser/027_CUSTOM_027.png" alt="The Echo Casket">
 </div>
+
+Sometimes, the best strategies are the ones you can scale to your needs and *Xif the X Factor* is here to answer that call. 
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/029_CUSTOM_029.png" alt="Xif, the X Factor">
@@ -161,6 +170,6 @@ While Yzmir uses the exhaust mechanic to disrupt its opponents' game plan, it al
 
 ## Concluding Remarks
 
-Thanks a lot for reading. I would love to hear what you think, so feel free to share your thoughts, feedback, or favorite designs on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b). And if these ideas inspire you to create customs of your own around these mechanics, please do share them there, I would be very happy to see what others come up with. More reveals are on the way, so stay tuned!
+Thanks a lot for reading. I would love to hear what you think, so feel free to share your feedback, or favorite designs on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b). And if these ideas inspire you to create customs of your own around these mechanics, I would be very happy to see them. More reveals are on the way, so stay tuned!
 
 *This article was written by Sawa. Altered is the property of Equinox.*
