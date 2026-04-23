@@ -1,4 +1,3 @@
-
 ---
 title: "*Smiles After Weeping* Teaser"
 excerpt: "Your subtitle here"
