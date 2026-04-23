@@ -95,7 +95,7 @@ Bravos, on its side, uses the exhaust mechanic to let its strong characters ente
 
 ### Lyra
 
-In *Smiles After Weeping*, Lyra aims to play with the randomness of the top card of the deck -> exploits it blabla.
+In Smiles After Weeping, Lyra’s gameplay revolves around the top card of the deck, with mechanics that reward players for revealing, manipulating, and exploiting its randomness.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/Tiresias.png" alt="Tiresias">
