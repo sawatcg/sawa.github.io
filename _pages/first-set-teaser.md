@@ -1,5 +1,5 @@
 
-# Smiles After Weeping Teaser - an Altered Fanmade set by *Sawa*
+# *Smiles After Weeping* Teaser - an Altered Fanmade set by *Sawa*
 
 Hello there! For my first post on this blog, I wanted to share my fan-made Altered set, *Smiles After Weeping*. If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered’s success, and is now entering a new phase driven by the community and you can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
 
@@ -107,6 +107,6 @@ Illu-Gen : Nilam Ruins; Food for Thought.
 
 ## Concluding Remarks
 
-Thanks a lot for reading. I would love to hear what you think, so feel free to share your thoughts, feedback, or favorite designs on the Re:Union Discord. And if these ideas inspire you to create customs of your own around these mechanics, please do share them there — I would be very happy to see what others come up with. More reveals are on the way, so stay tuned!
+Thanks a lot for reading. I would love to hear what you think, so feel free to share your thoughts, feedback, or favorite designs on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).. And if these ideas inspire you to create customs of your own around these mechanics, please do share them there, I would be very happy to see what others come up with. More reveals are on the way, so stay tuned!
 
-*This blogpost was written by Sawa. Altered is the property of Equinox*
+*This article was written by Sawa. Altered is the property of Equinox.*
