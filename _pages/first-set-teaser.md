@@ -6,7 +6,7 @@ layout: single
 classes: wide
 ---
 
-Hello there! For my first post on this blog, I wanted to give you a glimpse of my fan-made Altered set, *Smiles After Weeping* of about ~300cards in total !  If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered's success, and is now entering a new phase driven by the community and you can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
+Hello there! For my first post on this blog, I wanted to share my fan-made Altered set, *Smiles After Weeping*. If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered's success, and is now entering a new phase driven by the community and you can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
 
 I started designing Altered fan-made cards after Worlds, before the reveal of *Roots of Corruption* and before the full reveal of *Seeds of Unity*. Because of that, a significant number of my designs (roughly 30×3) ended up overlapping with cards revealed later on, either because they were too similar to existing ones, or because some interactions no longer felt appropriate once new cards and heroes had been introduced. At the same time, the constant flow of new reveals also ended up slowing down my desire to keep designing. Now that the project has shifted toward a community-based model, and with Set 7 seemingly around the corner, I figured I would rather revisit my fan-made cards, rework them, and share some of these ideas now than keep them to myself.
 
@@ -23,15 +23,15 @@ I wanted this set to remain accessible by introducing neither new heroes nor new
 Exhausting Landmark Permanents and Heroes has existed since the core set. A few months later, *Trial by Frost* introduced the possibility of exhausting cards in Reserve, and since the release of *Seeds of Unity* one year later, Expedition Permanents can also be exhausted, making them the first cards in the Expedition zone to occupy that design space. Characters, despite being Altered's main card type, have not yet been explored in that way — at least outside of Reserve. What should it mean for a character in play to become exhausted? If making a card exhausted implies that it becomes unusable, then it seems natural for a character affected in this way to also become unusable in some form, but in a way that should remain distinct from the **Asleep** mechanic. Without further ado, let's take a look at what this mechanic actually does.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/PaidinKind.png" alt="Paid in Kind">
-  <img src="/assets/images/first-set-teaser/OrdisLawKeeper.png" alt="Ordis Law Keeper">
+  <img src="/assets/images/first-set-teaser/001_CUSTOM_001.png" alt="Paid in Kind">
+  <img src="/assets/images/first-set-teaser/002_CUSTOM_002.png" alt="Ordis Law Keeper">
 </div>
 
 This kind of mechanic has already been explored in other TCGs, though I'll remain *silent* on the most obvious comparison, but Altered offers a particularly natural way to make it its own. While the core idea is quite simple, some edge cases may still need clarification; a full blog post would be the right place to discuss the mechanic in detail, but for now I will stick to the following two essential points:
 
-- A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
+> A character already in play does not lose any pre-existing status when it becomes exhausted. If a character is already Anchored, Asleep, Fleeting, or Boosted when it becomes exhausted, it keeps that status.
 
-- On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
+> On the other hand, a character that **enters play exhausted** does not trigger its {H}, {J}, or {R} abilities. Similarly, an exhausted character does not trigger its "when I leave the Expedition" or "when I go to Reserve" effects when it leaves the Expedition.
 
 Later, in the dedicated section, you will find how each faction makes use of this mechanic in its own distinct way.
 
@@ -41,7 +41,7 @@ One of my favorite design elements in Altered is the Reserve, as it adds an extr
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/ManaFly.png" alt="Mana Fly">
-  <img src="/assets/images/first-set-teaser/ChaseTheLights.png" alt="Chase The Lights">
+  <img src="/assets/images/first-set-teaser/003_CUSTOM_003.png" alt="Chase The Lights">
 </div>
 
 For the sake of simplicity, this set introduces only one type of Reserve token: the *Mana fly* Reserve token, a sibling to the *Mana moth* Character token. Put simply, creating a *Mana fly* Reserve token functions like a non-random form of **Resupply**, except that it does not cycle through the deck to dig for specific cards. That said, this space has plenty of room to grow, and future sets could easily explore other kinds of Reserve tokens (be prepared for Spell Reserve Tokens, just sayin'!), and who knows, we may one day even see new Heroes built around creating them!
@@ -51,8 +51,8 @@ For the sake of simplicity, this set introduces only one type of Reserve token: 
 Just as this set allows tokens to be created in Reserve, it also opens the door to giving status effects to Character cards while they are in Reserve.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Hypnos_R.png" alt="Hypnos">
-  <img src="/assets/images/first-set-teaser/MedidationRetrat.png" alt="Meditation Retreat">
+  <img src="/assets/images/first-set-teaser/004_CUSTOM_004.png" alt="Hypnos">
+  <img src="/assets/images/first-set-teaser/005_CUSTOM_005.png" alt="Mangrove Druid">
 </div>
 
 Conceptually, this sub-mechanic works much like giving boosts to Characters in Reserve. This set only begins to explore that design space, and it would not be surprising to see it expanded further in future fan-made sets.
@@ -66,47 +66,48 @@ Below is a brief teaser of what each faction has to offer. For every faction, yo
 In *Smiles After Weeping*, Axiom gives the exhaust mechanic a distinctly factional twist: many Axiom Characters enter exhausted, and the faction's core gameplay rewards you for readying them again to trigger powerful effects. As with Axiom's identity more broadly, the whole package is built to be highly synergistic, with both enablers and payoffs supporting this playstyle.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Tinselbot_R.png" alt="Tinselbot">
-  <img src="/assets/images/first-set-teaser/LightTurnsGreen.png" alt="Light Turns Green">
-  <img src="/assets/images/first-set-teaser/VarkoOvervolt.png" alt="Varko Overvolt">
+  <img src="/assets/images/first-set-teaser/006_CUSTOM_006.png" alt="Tinselbot">
+  <img src="/assets/images/first-set-teaser/007_CUSTOM_007.png" alt="Light Turns Green">
+  <img src="/assets/images/first-set-teaser/008_CUSTOM_008.png" alt="Hotaru-Gari">
 </div>
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/YuriLocomotiveEngineer.png" alt="Yuri Locomotive Engineer">
-  <img src="/assets/images/first-set-teaser/TheWatchpost.png" alt="The Watchpost">
+  <img src="/assets/images/first-set-teaser/010_CUSTOM_010.png" alt="Yuri Locomotive Engineer">
+  <img src="/assets/images/first-set-teaser/009_CUSTOM_009.png" alt="The Watchpost">
 </div>
 
-*The Watchpost* is Axiom's new fortress. Its Rare version (not yet revealed) costs {1} more. Can you guess its text?
+*The Watchpost* is Axiom's new fortress. Its Rare version (not yet revealed) will have higher costs than the Common Revealed Version.  Can you guess its text?
 
 ### Bravos
 
 Bravos, on its side, uses the exhaust mechanic to let its strong characters enter play without the drawbacks they would normally carry. Expect powerful synergies with previous mechanics such as Scout!
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/NullMantle.png" alt="Null Mantle">
-  <img src="/assets/images/first-set-teaser/Glatshyn.png" alt="Glatshyn">
-  <img src="/assets/images/first-set-teaser/BravosOutlandTrooper_R.png" alt="Bravos Outland Trooper">
+  <img src="/assets/images/first-set-teaser/011_CUSTOM_011.png" alt="Glatshyn">
+  <img src="/assets/images/first-set-teaser/012_CUSTOM_012.png" alt="Null Mantle">
+  <img src="/assets/images/first-set-teaser/013_CUSTOM_013.png" alt="Bravos Outland Trooper">
 </div>
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Minikhlut.png" alt="Minikhlut">
-  <img src="/assets/images/first-set-teaser/Zird_R.png" alt="Zird">
+  <img src="/assets/images/first-set-teaser/014_CUSTOM_014.png" alt="Minikhlut">
+  <img src="/assets/images/first-set-teaser/015_CUSTOM_015.png" alt="Zird">
 </div>
 
 ### Lyra
 
-In Smiles After Weeping, Lyra’s gameplay revolves around the top card of the deck, with mechanics that reward players for revealing, manipulating, and exploiting its randomness.
+In *Smiles After Weeping*, Lyra aims to play around the randomness of the top card of the deck. 
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Tiresias.png" alt="Tiresias">
-  <img src="/assets/images/first-set-teaser/PalmReadinTent_R.png" alt="Palm Reading Tent">
+  <img src="/assets/images/first-set-teaser/016_CUSTOM_016.png" alt="Tiresias">
+    <img src="/assets/images/first-set-teaser/017_CUSTOM_017.png" alt="Rael, Fortune Teller">
+  <img src="/assets/images/first-set-teaser/018_CUSTOM_018.png" alt="Palm Reading Tent">
 </div>
 
 Additionally, the set features cards that build on Lyra's playstyle in ways unique to the faction.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Sindbab.png" alt="Sindbad">
-  <img src="/assets/images/first-set-teaser/Reynardthefox_R.png" alt="Reynard the Fox">
+  <img src="/assets/images/first-set-teaser/019_CUSTOM_019.png" alt="Sindbad">
+  <img src="/assets/images/first-set-teaser/020_CUSTOM_020.png" alt="Morpheus">
 </div>
 
 ### Muna
@@ -114,15 +115,16 @@ Additionally, the set features cards that build on Lyra's playstyle in ways uniq
 Muna uses the exhaust mechanic to either slow down its opponents or remove the drawbacks of its own characters.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/AloeStriata_R.png" alt="Aloe Striata">
-  <img src="/assets/images/first-set-teaser/PullTheWool.png" alt="Pull The Wool">
+  <img src="/assets/images/first-set-teaser/021_CUSTOM_021.png" alt="Nox">
+  <img src="/assets/images/first-set-teaser/022_CUSTOM_022.png" alt="Pull The Wool">
+   <img src="/assets/images/first-set-teaser/023_CUSTOM_023.png" alt="Aloe Striata">
 </div>
 
 On top of that, Muna will willingly trade some of its own advantages in order to hinder its opponents.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/ManaTithe.png" alt="Mana Tithe">
-  <img src="/assets/images/first-set-teaser/ThornrootGrove.png" alt="Thornroot Grove">
+  <img src="/assets/images/first-set-teaser/024_CUSTOM_024.png" alt="Mana Tithe">
+  <img src="/assets/images/first-set-teaser/025_CUSTOM_025.png" alt="Thornroot Grove">
 </div>
 
 ### Ordis
@@ -130,13 +132,14 @@ On top of that, Muna will willingly trade some of its own advantages in order to
 As they push further into the unknown, Ordis uncovers the Cloning Vat, a mysterious artifact whose power allows the faction to replicate objects and life. In this set, Ordis' identity revolves around cloning and the highly synergistic possibilities it unlocks.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/TheCounterfeiter.png" alt="The Counterfeiter">
-  <img src="/assets/images/first-set-teaser/CrowdedOut.png" alt="Crowded Out">
+  <img src="/assets/images/first-set-teaser/026_CUSTOM_026.png" alt="The Counterfeiter">
+    <img src="/assets/images/first-set-teaser/028_CUSTOM_028.png" alt="Crowded Out">
+  <img src="/assets/images/first-set-teaser/027_CUSTOM_027.png" alt="The Echo Casket">
 </div>
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Niobe.png" alt="Niobe">
-  <img src="/assets/images/first-set-teaser/ThebAt.png" alt="The Bat">
+  <img src="/assets/images/first-set-teaser/029_CUSTOM_029.png" alt="Xif, the X Factor">
+  <img src="/assets/images/first-set-teaser/030_CUSTOM_030.png" alt="The Bat">
 </div>
 
 ### Yzmir
@@ -144,14 +147,16 @@ As they push further into the unknown, Ordis uncovers the Cloning Vat, a mysteri
 While Yzmir uses the exhaust mechanic to disrupt its opponents' game plan, it also plays with "information" but, unlike Lyra, aims to reveal parts of the opponent's hand or top deck in order to better anticipate their moves.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/Eavesdropper.png" alt="Eavesdropper">
-  <img src="/assets/images/first-set-teaser/Zujo_R.png" alt="Zujo">
+  <img src="/assets/images/first-set-teaser/031_CUSTOM_031.png" alt="Qorgan Eavesdropper">
+    <img src="/assets/images/first-set-teaser/032_CUSTOM_032.png" alt="Uluna, Mindseer">
+  <img src="/assets/images/first-set-teaser/033_CUSTOM_033.png" alt="Zujo, High Judge">
 </div>
 
 > The card *Zujo, High Judge* was inspired by a discussion with *Moondust*, who mentioned that he would love to see cards built around that kind of effect. Rather than making it a one-off design, I thought it would be interesting to explore the mechanic through several different cards.
 
 <div class="card-gallery">
-  <img src="/assets/images/first-set-teaser/FoodForThought.png" alt="Food For Thought">
+  <img src="/assets/images/first-set-teaser/034_CUSTOM_034.png" alt="Food For Thought">
+  <img src="/assets/images/first-set-teaser/035_CUSTOM_035.png" alt="Nilam Ruins">
 </div>
 
 ## Concluding Remarks
