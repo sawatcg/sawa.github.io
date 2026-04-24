@@ -6,15 +6,15 @@ layout: single
 classes: wide
 ---
 
-Hello there! For my first post on this blog, I wanted to share my fan-made Altered set, *Smiles After Weeping*. If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered's success, and is now entering a new phase driven by the community and you can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
+Hello there! For my first post on this blog, I wanted to share my fan-made Altered set, *Smiles After Weeping*. If you don't know about [Altered](https://www.altered.gg/), it is one, if not the best, TCG I have ever played. Unfortunately, the game is no longer being developed by Equinox, the company behind Altered's success, and is now entering a new phase driven by the community. You can find more information on the [Altered Re:Union Discord](https://discord.gg/E6qmfA2b).
 
-I started designing Altered fan-made cards after Worlds, before the reveal of *Roots of Corruption* and before the full reveal of *Seeds of Unity*. Because of that, a significant number of my designs (roughly 30×3) ended up overlapping with cards revealed later on, either because they were too similar to existing ones, or because some interactions no longer felt appropriate once new cards and heroes had been introduced. At the same time, the constant flow of new reveals also ended up slowing down my desire to keep designing. Now that the project has shifted toward a community-based model, and with Set 7 seemingly around the corner, I figured I would rather revisit my fan-made cards, rework them, and share some of these ideas now than keep them to myself.
+I started designing Altered fan-made cards after Worlds, before the reveal of *Roots of Corruption* and before the full reveal of *Seeds of Unity*. Because of that, a significant number of my designs (roughly 30×3) ended up overlapping with cards revealed later on, either because they were too similar to existing ones, or because some interactions no longer felt appropriate once new cards and heroes had been introduced. At the same time, the constant flow of new reveals also ended up slowing down my desire to keep designing. Now that the project has shifted toward a community-based model, and with *Set 7* seemingly around the corner, I figured I would rather revisit my fan-made cards and share some of these ideas now than keep them to myself.
 
-These illustrations would not have been possible without the amazing work of *PolluxTroy* on [altered-db](https://altered-db.com/). Huge thanks again to him, and do not hesitate to give it a try if you ever feel like creating custom cards of your own!
+These illustrations would not have been possible without the amazing work of *Pollux Troy* on [altered-db](https://altered-db.com/). Huge thanks again to him, and do not hesitate to give it a try if you ever feel like creating custom cards of your own!
 
 > **Disclaimer:** *As you'll notice, these designs are generally on the simpler side, and I would not be surprised if Equinox has already explored some of these ideas internally. This is very much an early draft. I still intend to test and rebalance all of the cards, and some of them will likely be revised quite a bit.*
 
-> <span style="color: #e8a020;"> The card illustrations were generated using the automated CSV-to-Card tool from [altered-db](https://altered-db.com/). As this feature is still a work in progress, some elements (text color, text size...) are not display correctly. Improvements are on the way. </span>
+> <span style="color: #e8a020;"> The card illustrations were generated using the automated CSV-to-Card tool from [altered-db](https://altered-db.com/forge/). As this feature is still a work in progress, some elements (text color, text size...) are not display correctly. Improvements are on the way. </span>
 
 
 ## Set Mechanics
@@ -40,7 +40,7 @@ Later, in the dedicated section, you will find how each faction makes use of thi
 
 ### Tokens in Reserve
 
-One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve, making it, to my knowledge, the first physical TCG to handle tokens outside the board in a truly elegant way.
+One of my favorite design elements in Altered is the Reserve, as it adds an extra layer of strategic depth to the game. Over time, many mechanics and interactions have already been built around it. And yet, much like the idea of exhausting Characters in Play, one area remains surprisingly unexplored: although tokens can already be created in the Expedition and Landmark zones, they are still absent from Reserve. This is, to my knowledge, the first time a physical TCG  can solve the "out-of-board token problem" in a truly elegant way.
 
 <div class="card-gallery">
   <img src="/assets/images/first-set-teaser/ManaFly.png" alt="Mana Fly">
